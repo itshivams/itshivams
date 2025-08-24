@@ -20,14 +20,14 @@ jobs:
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3.2.0
         with:
-          github_user_name: myselfshivams
+          github_user_name: itshivams
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Set up Git
         run: |
-          git config --global user.name "myselfshivams"
+          git config --global user.name "itshivams"
           git config --global user.email "30shivam09@gmail.com"
 
       - name: Commit and push changes
