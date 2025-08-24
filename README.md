@@ -31,14 +31,14 @@
 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/itshivam/">Shivam</a></b>
+                <b><a target="_blank" href="https://www.linkedin.com/in/ershivams/">Shivam</a></b>
         </samp>
 </h3>
 
 <!-- Search  -->
 <p align="center"> 
   <samp>
-    <a href="https://www.linkedin.com/in/itshivam/">「 Connect with me 」</a>
+    <a href="https://www.linkedin.com/in/ershivams/">「 Connect with me 」</a>
     <br>
     「 I am iOS and Android Developer & full stack Web Developer 」
     <br>
