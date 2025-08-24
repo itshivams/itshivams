@@ -6,7 +6,7 @@
 
   <div>
     <div align="center">
-        <a href="https://github.com/myselshivams"><img src="myselfshivams.png" height="400" /></a>
+        <a href="https://github.com/myselshivams"><img src="itshivams.png" height="400" /></a>
     </div>
     
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -14,7 +14,7 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://itshivam.tech" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=myselfshivams&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=itshivams&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -22,7 +22,7 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
  
   <div align="center">
-        <a href="https://github.com/myselfshivams"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam%2C;Web+Developer%2C;App+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
+        <a href="https://github.com/itshivams"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam%2C;Web+Developer%2C;App+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
     </div>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -54,7 +54,7 @@
 <!----- Footer Bar  --------------------------------------------------------------------------------------------------------------------------------------->
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
 
- <p align="center"><a href="https://github.com/myselfshivams"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+ <p align="center"><a href="https://github.com/itshivams"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
  
 
 <!---------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -63,7 +63,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <hr>
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmyselfshivams%2Fmyselfshiavms&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitshivams%2Fmyselfshiavms&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
     <br><br>
   <a href="https://dev.to/itshivam"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username itshivam" /></a>
   <a href="https://www.linkedin.com/in/itshivam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username itshivam" /></a>
@@ -347,24 +347,24 @@ About Me = {
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> GitHub Stats
 <details>
 <p align="center">
-  <a href="https://github.com/myselfshivams">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=myselfshivams&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
+  <a href="https://github.com/itshivams">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itshivams&theme=radical&border=7F3FBF&background=0D1117" alt="Shivam's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/myselfshivams">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myselfshivams&theme=radical" alt="Shivam's GitHub Contribution"/>
+  <a href="https://github.com/itshivams">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itshivams&theme=radical" alt="Shivam's GitHub Contribution"/>
   </a>
 </p>
 
 <hr>
 <div align="center">
 <a> 
-<!--     <a href="https://github.com/myselfshivams"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=myselfshivams&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
+<!--     <a href="https://github.com/itshivams"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=itshivams&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a> -->
 
   <div align="center">
-  <a href="https://github.com/myselfshivams"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=myselfshivams&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/itshivams"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=itshivams&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br>
 </a>
 
@@ -393,7 +393,7 @@ About Me = {
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=myselfshivams&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itshivams&bg_color=161b22&color=ffffff&line=d5d5d5&point=a76c6c&area=true&hide_border=true&hide_title=true" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -457,7 +457,7 @@ About Me = {
 <!--- Shivam's HacktoberFest  ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-[![An image of @myselfshivams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/myselfshivams)](https://holopin.io/@myselfshivams)
+[![An image of @itshivams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itshivams)](https://holopin.io/@itshivams)
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -566,6 +566,6 @@ PHP                      1 repo              ░░░░░░░░░░░�
 <!--- Shivam's Snake Animation Contribution Graph ---------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-![snake gif](https://github.com/myselfshivams/myselfshivams/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/itshivams/itshivams/blob/output/github-contribution-grid-snake-dark.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
