@@ -1,5 +1,10 @@
-  <div align="center">
-        <a href="https://github.com/itshivams"><img src="cover-bg.png" height="400" /></a>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+<!----- Shivam's Icon ------------------------------------------------------------------------------------------------------------------------------>
+<!-------------------------------------------------------------------------------------------------------------------------------------------------->
+
+  <div>
+    <div align="center">
+        <a href="https://github.com/myselshivams"><img src="shivamtrix.png" height="200" /></a>
     </div>
 
 
@@ -9,7 +14,7 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://itshivam.tech" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=itshivams&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="http://itshivam.in/api/github-profile?username=itshivams&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -20,14 +25,7 @@
         <a href="https://github.com/itshivams"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam%2C;Web+Developer%2C;App+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
     </div>
 
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
-<!----- Shivam's Icon ------------------------------------------------------------------------------------------------------------------------------>
-<!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
-  <div>
-    <div align="center">
-        <a href="https://github.com/myselshivams"><img src="shivamtrix.png" height="400" /></a>
-    </div>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 <!----- Intro -------------------------------------------------------------------------------------------------------------------------------------->
@@ -88,8 +86,8 @@
             <li>🌱 <b>I’m currently learning</b>: DevOps, Framer Motion.</li>
             <li>💬 <b>Ask me about</b>: Web Development, iOS Developments, App Development and Competetive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>🤔 <b>I’m currently open for</b>: pen Source Projects</li>
-            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://itshivam.me">My Portfolio</a>.</li>
+            <li>🤔 <b>I’m currently open for</b>: Open Source Projects</li>
+            <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://itshivam.in">My Portfolio</a>.</li>
         </ul>  
 <hr>
   
