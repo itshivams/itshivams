@@ -420,19 +420,7 @@ About Me = {
                   
 <br>
 
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<!--- Shivam's Coding Profiles   ----------------------------------------------------------------------------------------------------------------------------->
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-## Coding Profiles📈
-<details>
-<span>
-<a href="https://codeforces.com/profile/">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=codeforces&theme=github_dark&force_username=true&border_color=404040" alt="Shivam Codeforces Stats"/>
-</a>
-<a href="https://leetcode.com/u/itshivam/">
-<img height="316" src="https://leetcard.jacoblin.cool/itshivam?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Shivam Leetcode Stats"/>
-</a>
-</details>
+
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 <!--- Shivam's GSSOC Badges   ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -457,7 +445,7 @@ About Me = {
 <!--- Shivam's HacktoberFest  ----------------------------------------------------------------------------------------------------------------------------->
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-[![An image of @itshivams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itshivams)](https://holopin.io/@itshivams)
+[![An image of @itshivams's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/myselfshivams)](https://holopin.io/@myselfshivams)
 
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
