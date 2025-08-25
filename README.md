@@ -4,7 +4,7 @@
 
   <div>
     <div align="center">
-        <a href="https://github.com/itshivams"><img src="shivamtrix.png" height="200" /></a>
+        <a href="https://github.com/itshivams"><img src="https://itshivam.in/api/github-image?username=itshivams" height="300" /></a>
     </div>
 
 
