@@ -60,7 +60,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <hr>
 <div align="center">
-  <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitshivams%2Fitshivams&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
+  <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitshivams%2Fitshivams&label=VISITORS&labelColor=%2300FF88&countColor=%2300FF88" />
     <br><br>
 
 
