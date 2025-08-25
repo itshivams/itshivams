@@ -14,16 +14,14 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://itshivam.in" target="_blank">
-        <img src="http://itshivam.in/api/github-profile?username=itshivams&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
+        <img src="http://itshivam.in/api/github-profile?username=itshivams&data=followers,repositories,stars,commits&theme=neon" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 <!----- Read-me Typing ------------------------------------------------------------------------------------------------------------------------------>
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
  
-  <div align="center">
-        <a href="https://github.com/itshivams"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Shivam%2C;Web+Developer%2C;App+Developer%2C;And++Programming+Enthusiast..." alt="Typing SVG" /></a>
-    </div>
+
 
 
 
@@ -32,21 +30,18 @@
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://www.linkedin.com/in/ershivams/">Shivam</a></b>
-        </samp>
+    <samp>
+      
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1&pause=&color=00FF88&width=435&lines=%3E+Hey+There!%2C+I+am+Shivam)](https://git.io/typing-svg)
+</samp>
+
+
 </h3>
 
-<!-- Search  -->
-<p align="center"> 
-  <samp>
-    <a href="https://www.linkedin.com/in/ershivams/">「 Connect with me 」</a>
-    <br>
-    「 I am iOS and Android Developer & full stack Web Developer 」
-    <br>
-    
-  </samp>
-</p>
+
+
+
+
 
 <div>
 
@@ -68,7 +63,14 @@
   <img src="https://itshivam.in/api/visitors?path=https%3A%2F%2Fgithub.com%2Fitshivams%2Fitshivams&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
     <br><br>
 
-  
+
+
+
+
+
+
+
+
   <a href="https://dev.to/itshivam"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username itshivam" /></a>
   <a href="https://www.linkedin.com/in/itshivam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username itshivam" /></a>
   <a href="mailto:contact@itshivam.in"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Shivam i.e.   contact@itshivam.in" /></a>
