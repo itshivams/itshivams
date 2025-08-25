@@ -71,9 +71,9 @@
 
 
 
-  <a href="https://dev.to/itshivam"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username itshivam" /></a>
-  <a href="https://www.linkedin.com/in/itshivam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username itshivam" /></a>
-  <a href="mailto:contact@itshivam.in"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Shivam i.e.   contact@itshivam.in" /></a>
+  <a href="https://dev.to/itshivam"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=00FF88" alt="profile of Dev.to with username itshivam" /></a>
+  <a href="https://www.linkedin.com/in/itshivam/"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=00FF88" alt="profile of LinkedIn with username itshivam" /></a>
+  <a href="mailto:contact@itshivam.in"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=00FF88" alt="email of Shivam i.e.   contact@itshivam.in" /></a>
 
 </div>
 <hr>
