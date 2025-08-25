@@ -4,7 +4,7 @@
 
   <div>
     <div align="center">
-        <a href="https://github.com/myselshivams"><img src="shivamtrix.png" height="200" /></a>
+        <a href="https://github.com/itshivams"><img src="shivamtrix.png" height="200" /></a>
     </div>
 
 
@@ -13,7 +13,7 @@
 <!----- Shivam's Profile Bar ----------------------------------------------------------------------------------------------------------------------->
 <!-------------------------------------------------------------------------------------------------------------------------------------------------->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://itshivam.tech" target="_blank">
+  <a href="https://itshivam.in" target="_blank">
         <img src="http://itshivam.in/api/github-profile?username=itshivams&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
     </a>
 
