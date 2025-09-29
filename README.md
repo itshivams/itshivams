@@ -87,8 +87,8 @@
 <div align="centre">
         <ul>
             <li>🔭 <b>I’m currently working on</b>: Next.js, Django, Golang, SwiftUI</li>
-            <li>🌱 <b>I’m currently learning</b>: DevOps, Framer Motion.</li>
-            <li>💬 <b>Ask me about</b>: Web Development, iOS Developments, App Development and Competetive Programming.</li>
+            <li>🌱 <b>I’m currently learning</b>: gRPC </li>
+            <li>💬 <b>Ask me about</b>: DevOps, Cloud, iOS Developments and Competetive Programming.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
             <li>🤔 <b>I’m currently open for</b>: Open Source Projects</li>
             <li>👨‍💻 <b>All of my projects are available at</b>: <a href="https://itshivam.in">My Portfolio</a>.</li>
