@@ -65,10 +65,10 @@
                     <div class="topics">
                         <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x647</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x276</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x235</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x236</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x196</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x177</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x157</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x158</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x132</span></div>
                     </div>
                 </section>
