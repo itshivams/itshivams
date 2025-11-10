@@ -19,8 +19,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="106.3558642799893 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1210</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="106.44376168848517 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1211</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/3743</text>
                                 </svg>
                                 <span class="title">All</span>
@@ -28,8 +28,8 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="122.29276315789474 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">339</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="122.65350877192982 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">340</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/912</text>
                                 </svg>
                                 <span class="title">Easy</span>
@@ -67,7 +67,7 @@
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x281</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x245</span></div>
                         <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x200</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x183</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x184</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x163</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x137</span></div>
                     </div>
