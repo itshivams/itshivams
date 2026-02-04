@@ -19,9 +19,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="109.23727486296006 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">1272</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3831</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="109.29462421711901 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">1273</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3832</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
@@ -46,9 +46,9 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge hard">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="89.42983425414364 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">246</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/905</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="89.69426048565121 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">247</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/906</text>
                                 </svg>
                                 <span class="title">Hard</span>
                             </div>
@@ -63,13 +63,13 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x717</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x289</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x261</span></div>
-                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x211</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x720</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x291</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x262</span></div>
+                        <div class="label advanced"><span class="dot">⬤</span> Dynamic Programming <span class="count">x212</span></div>
                         <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x199</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x176</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x143</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x177</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Greedy <span class="count">x142</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
